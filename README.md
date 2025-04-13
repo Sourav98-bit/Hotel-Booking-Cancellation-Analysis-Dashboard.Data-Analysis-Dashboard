@@ -1,0 +1,2 @@
+# Hotel-Booking-Cancellation-Analysis-Dashboard.Data-Analysis-Dashboard
+This project focuses on analyzing hotel booking cancellations using real-world data from a CSV file. The dataset spans three years (2015 to 2017) and includes over 119,000 booking records. Using Excel for initial data cleaning and Tableau for interactive data visualization, this analysis uncovers booking behaviors, seasonal trends.
